@@ -1,2 +1,2 @@
 # Professional-Profile
-My resume / preffesional details
+My resume / proffesional details
