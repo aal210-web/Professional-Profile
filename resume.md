@@ -1,5 +1,5 @@
 # Aaron Lalmansingh
-Gaithersburg, MD | 3012326882 | https://www.linkedin.com/feed/ | https://github.com/aal210-web
+Gaithersburg, MD | Aaronlalmansingh@Gmail.com | https://www.linkedin.com/feed/ | https://github.com/aal210-web
 
 ## Professional Summary
 Result-driven Business Administration student with a focus on [Data Analytics / Finance / Marketing]. Experienced in translating complex datasets into actionable business strategies. Proficient in Python, SQL, and version control via Git.
